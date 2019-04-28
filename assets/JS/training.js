@@ -1,19 +1,19 @@
-// let instructor = "Patrick";
-// let trainingCenter = "Projaro";
+//Variables And Assignment
+let instructor = "Patrick";
+let trainingCenter = "Projaro";
 
-// console.log(instructor + " " + "is an instructor at " + trainingCenter);
-// instructor = "Mr. Emmanuel";
-// console.log (instructor);
+console.log(instructor + " " + "is an instructor at " + trainingCenter);
+instructor = "Mr. Emmanuel";
+console.log (instructor);
 
-// instructor = "trainingCenter";
-// console.log(instructor);
+instructor = "trainingCenter";
+console.log(instructor);
 
 // Calculatiing Area Of A Traiangle
-// let breath = 12;
-// let length = 10;
-// let area = length * breath;
-
-// console.log(area);
+let breath = 12;
+let length = 10;
+let area = length * breath;
+console.log(area);
 
 // let age = 10;
 // if (age > 18) {
